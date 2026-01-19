@@ -1,10 +1,10 @@
 {
-  "version": "1.0.1",
-  "build": 2,
-  "releaseDate": "2026-01-16",
-  "downloadUrl": "https://hadgalcom.github.io/halgalcom.github.io/releases/Hadgal-1.0.1.msi",
+  "version": "1.0.2",
+  "build": 3,
+  "releaseDate": "2026-01-19",
+  "downloadUrl": "https://hadgalcom.github.io/halgalcom.github.io/releases/Hadgal-1.0.2.msi",
   "changelog": [
-    "Premium features: No watermark for premium users",
-    "Improved subscription status checking"
+    "Version 1.0.2 release",
+    "Bug fixes and improvements"
   ]
 }
