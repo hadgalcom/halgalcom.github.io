@@ -2,7 +2,7 @@
   "version": "1.0.2",
   "build": 3,
   "releaseDate": "2026-01-19",
-  "downloadUrl": "https://hadgalcom.github.io/halgalcom.github.io/releases/Hadgal-1.0.2.msi",
+  "downloadUrl": "https://cdn.hadgal.com/releases/Hadgal-1.0.2.msi",
   "changelog": [
     "Version 1.0.2 release",
     "Bug fixes and improvements"
